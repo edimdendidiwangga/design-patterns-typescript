@@ -14,4 +14,4 @@ console.log(myData(123))
 
 const arrowFunc = <T, >(value: T) => {
 
-}
+} 
