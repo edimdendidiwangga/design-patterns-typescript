@@ -1,4 +1,4 @@
-namespace Adapter {
+namespace AdapterPattern {
     // name    |   brand
     // --------------------
     // mobil   |   DeLorean
