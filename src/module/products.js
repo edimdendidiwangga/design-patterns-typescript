@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var Asus_1 = require("./Asus");
+var Macbook_1 = require("./Macbook");
+var asus = new Asus_1["default"]("Zenbook", true, true);
+console.log(asus);
+var mac = new Macbook_1["default"]("Macbook", false, false);
+console.log(mac);
+console.log(mac.a());
+console.log(mac.b());
