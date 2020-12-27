@@ -1,7 +1,4 @@
-
-
 namespace ProxySolution {
-    const fetch = require("fetch");
     interface ICovid {
         getData(): Promise<{
             confirm: number,
